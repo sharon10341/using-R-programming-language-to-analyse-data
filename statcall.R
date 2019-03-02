@@ -20,3 +20,4 @@ Z
 MOE=(c(-1,1)*Z*(my_SD/sqrt(100)))
 MOE
 CI=my_mean+MOE
+CI
